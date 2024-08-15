@@ -1,0 +1,212 @@
+[
+    {
+        "name": "iPhone 13",
+        "price": 999,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 799,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 1199,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Note 10",
+        "price": 499,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1999,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Tab S7",
+        "price": 649,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Inspiron",
+        "price": 799,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Band 6",
+        "price": 49,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "iPad Pro",
+        "price": 1099,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Watch 4",
+        "price": 299,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell G5",
+        "price": 999,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI TV 4X",
+        "price": 399,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "iMac",
+        "price": 1299,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Buds Pro",
+        "price": 199,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Alienware",
+        "price": 2499,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Air Purifier",
+        "price": 149,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "Apple Watch Series 7",
+        "price": 399,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Note 20",
+        "price": 999,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Latitude",
+        "price": 1099,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Electric Scooter",
+        "price": 499,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "iPhone 14",
+        "price": 1099,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S22",
+        "price": 899,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell XPS 15",
+        "price": 1299,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Note 11",
+        "price": 549,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "MacBook Air",
+        "price": 999,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Tab S8",
+        "price": 699,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Precision",
+        "price": 1499,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "MI Smart Speaker",
+        "price": 99,
+        "featured": true,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "iPad Mini",
+        "price": 499,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Buds Live",
+        "price": 149,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Samsung"
+    }
+]
