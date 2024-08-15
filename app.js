@@ -8,11 +8,7 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
 
-app.get('/', (req, res) => {
-    res.send('Hello, Developer Dinesh Wassup');
-});
-
-app.use('/api/products', products_route);
+app.use('/', products_route);
 
 const start = async () => {
     try {
